@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas Vindas ao meu perfil 😧
 
-<!--
-**Lipe10000/Lipe10000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Felipe
+-Estou estudando na [alura](https://www.alura.com.br)
+-Estou me desenvolvendo na linguagem Java Script
+-Utilizo esse espoço para minha organização e compartilhamento dos meus projetos desenvolvimentos
 
-Here are some ideas to get you started:
+## Você pode entrar em comtato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 00001107834995sp@al.educacao.sp.gov.br
+
+![.](https://media.tenor.com/QcrcBpXx3qYAAAAM/boy-kid.gif)
+![.](https://media.tenor.com/mhaVjA7zdlMAAAAM/rolling-roll.gif)
